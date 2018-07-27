@@ -1,0 +1,1 @@
+Use this folder to host all the static content like css, images, html pages, etc.
