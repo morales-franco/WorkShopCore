@@ -1,0 +1,11 @@
+D:\DevTest\Git\WorkShopCore\WorkShopCore\WorkShopCore\bin\Debug\netcoreapp2.0\WorkShopCore.deps.json
+D:\DevTest\Git\WorkShopCore\WorkShopCore\WorkShopCore\bin\Debug\netcoreapp2.0\WorkShopCore.runtimeconfig.json
+D:\DevTest\Git\WorkShopCore\WorkShopCore\WorkShopCore\bin\Debug\netcoreapp2.0\WorkShopCore.runtimeconfig.dev.json
+D:\DevTest\Git\WorkShopCore\WorkShopCore\WorkShopCore\bin\Debug\netcoreapp2.0\WorkShopCore.dll
+D:\DevTest\Git\WorkShopCore\WorkShopCore\WorkShopCore\bin\Debug\netcoreapp2.0\WorkShopCore.pdb
+D:\DevTest\Git\WorkShopCore\WorkShopCore\WorkShopCore\obj\Debug\netcoreapp2.0\WorkShopCore.csprojAssemblyReference.cache
+D:\DevTest\Git\WorkShopCore\WorkShopCore\WorkShopCore\obj\Debug\netcoreapp2.0\WorkShopCore.csproj.CoreCompileInputs.cache
+D:\DevTest\Git\WorkShopCore\WorkShopCore\WorkShopCore\obj\Debug\netcoreapp2.0\WorkShopCore.AssemblyInfoInputs.cache
+D:\DevTest\Git\WorkShopCore\WorkShopCore\WorkShopCore\obj\Debug\netcoreapp2.0\WorkShopCore.AssemblyInfo.cs
+D:\DevTest\Git\WorkShopCore\WorkShopCore\WorkShopCore\obj\Debug\netcoreapp2.0\WorkShopCore.dll
+D:\DevTest\Git\WorkShopCore\WorkShopCore\WorkShopCore\obj\Debug\netcoreapp2.0\WorkShopCore.pdb
